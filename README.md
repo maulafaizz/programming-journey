@@ -15,3 +15,8 @@ Documentation of my programming journey
 3. Method
 4. Interface
 
+# Web Development
+1. HTML
+2. CSS
+3. JS
+
