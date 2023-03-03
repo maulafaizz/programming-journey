@@ -1,0 +1,27 @@
+.box {
+    background-color: rebeccapurple;
+    height: 500px;
+    width: 500px;
+    margin: 100px;
+}
+
+.box1 {
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    margin: 100px;
+    mix-blend-mode: hard-light;
+}
+
+.box2 {
+    background-color: gray;
+    height: 100px;
+    width: 100px;
+}
+
+/* https://stackoverflow.com/questions/4344906/creating-a-hole-in-a-div-element/30261011#30261011 */
+
+p {
+    color: cyan;
+    font-size: 20px;
+}
