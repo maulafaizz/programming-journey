@@ -1,3 +1,7 @@
 .grid {
     grid: 0%;
 }
+
+.grid-element {
+    grid-column: auto;
+}
